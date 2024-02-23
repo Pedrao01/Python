@@ -1,2 +1,2 @@
-# Programas
+# Python
 linguagem: Python
